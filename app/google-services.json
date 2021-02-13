@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071191432909",
+    "project_id": "natterapp-f6a96",
+    "storage_bucket": "natterapp-f6a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071191432909:android:b6d6263ae90b339e7e5384",
+        "android_client_info": {
+          "package_name": "com.example.natterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071191432909-a0c4cgfg7huc47umvpu9chrmnris04vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHF6809_xkn0pIj21Rr-Kv2-aMJ-oFXgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071191432909-a0c4cgfg7huc47umvpu9chrmnris04vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

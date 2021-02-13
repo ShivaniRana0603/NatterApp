@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NatterApp</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="natterapp_will_send_an_sms_message_to_verify_your_phone_number"> NatterApp will send an SMS message to verify your phone number .</string>
+    <string name="Continue">Continue</string>
+
+    <string name="enter_your_number">Enter your number</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="continue">Continue</string>
+</resources>
